@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alan
 - 👀 I’m interested in App and Web development.
-- 🌱 I’m currently learning to create websites.
-- 💞️ I’m looking to collaborate on app development.
+- 🌱 I’m currently looking for a full time job
+- 💞️ Below are some of my personal projects that I have worked on
 - 📫 How to reach me ...
 
 <!---
